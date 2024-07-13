@@ -1,0 +1,16 @@
+{
+  "name": "fullstack_professionalproject",
+  "version": "1.0.0",
+  "description": "A Professional Backend Setup Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "vishal",
+    "code",
+    "youtube"
+  ],
+  "author": "Vishal Qalandari",
+  "license": "ISC"
+}
